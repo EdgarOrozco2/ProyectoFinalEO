@@ -1,0 +1,6 @@
+projectKey=Entregable2EO
+serverUrl=http://18.222.178.31
+serverVersion=9.9.0.65466
+dashboardUrl=http://18.222.178.31/dashboard?id=Entregable2EO
+ceTaskId=AYwiT0l3jPKjMqxJW0fx
+ceTaskUrl=http://18.222.178.31/api/ce/task?id=AYwiT0l3jPKjMqxJW0fx

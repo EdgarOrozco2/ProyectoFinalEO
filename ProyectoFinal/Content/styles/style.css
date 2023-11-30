@@ -1,0 +1,15 @@
+﻿hr {
+  margin-bottom: 1rem;
+  border: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.5);
+}
+
+.card {
+    box-shadow: 0 0 10px -3px rgba(0, 0, 0, 0.1);
+}
+
+span{
+    font-weight: 500;
+    /*margin:10px ;*/
+    font-size: 16px;
+}
